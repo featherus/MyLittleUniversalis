@@ -1,0 +1,14 @@
+is_city = yes
+
+add_core = UNI
+owner = UNI
+controller = UNI
+
+base_tax = 4
+base_production = 3
+base_manpower = 2
+
+culture = unicornian
+religion = harmonic
+
+trade_goods = cloth
